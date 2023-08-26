@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oGcZam0fsMmI5LpG0aWgsayUKi7zAUYPtKUnb8YeWY4=",
+  "Source": "example-asp-api",
+  "BasePath": "_content/example-asp-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
